@@ -6,14 +6,104 @@ uid: c8b9b0bf-24dc-bc1f-24d1-aaf75e14c211
 
 The following lecture notes cover the lectures on Soft-Collinear Effective Theory. The lecture notes make reference to several papers, the citations for which appear below the table. For a single file containing all of the notes, download the Notes on Soft-Collinear Effective Theory. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet_2006))
 
-| Lec # | SUBtopics | references |
-| --- | --- | --- |
-| 22 | Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Power Counting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet1)) | \[2\], \[3\] |
-| 23 | Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail (not in notes) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet2)) | \[2\], \[3\], \[10\] |
-| 24 | SCET\_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet3)) | \[3\], \[1\], \[6\] |
-| 25 | More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences, Matching, Running (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet4)) | \[4\], \[1\], \[2\], \[3\] |
-| 26 | DIS, Soft-Collinear Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet5)) | For DIS see \[8\]  {{< br >}}  {{< br >}}For Soft-Collinear Interactions see \[4\] |
-| 27 | SCET\_II, Power Counting Formulae, Examples, Define a Jet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet6)) | Fro SCET\_II see \[4\], \[7\], \[10\]  {{< br >}}  {{< br >}}For Power Counting see \[5\]  {{< br >}}  {{< br >}}For examples see \[8\], \[9\], \[4\]  {{< br >}}  {{< br >}}For Jets see \[4\], \[11\], \[12\] 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+SUBtopics
+{{< thclose >}}
+{{< thopen >}}
+references
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Degrees of Freedom, Scales, Expansion of Spinors, Propogators, Power Counting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet1))
+{{< tdclose >}}
+{{< tdopen >}}
+\[2\], \[3\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Construction of Currents, Lagrangian Multipole Expansion, Labels, Grid in Detail (not in notes) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet2))
+{{< tdclose >}}
+{{< tdopen >}}
+\[2\], \[3\], \[10\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+SCET\_I Lagrangian, Gauge Symmetry, Reparameterization Invariance (RPI) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet3))
+{{< tdclose >}}
+{{< tdopen >}}
+\[3\], \[1\], \[6\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+More RPI, Ultrasoft-Collinear Factorization, Hard-Collinear Factorization, Infrared Divergences, Matching, Running (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet4))
+{{< tdclose >}}
+{{< tdopen >}}
+\[4\], \[1\], \[2\], \[3\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+DIS, Soft-Collinear Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet5))
+{{< tdclose >}}
+{{< tdopen >}}
+For DIS see \[8\]  
+  
+For Soft-Collinear Interactions see \[4\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+SCET\_II, Power Counting Formulae, Examples, Define a Jet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scet6))
+{{< tdclose >}}
+{{< tdopen >}}
+Fro SCET\_II see \[4\], \[7\], \[10\]  
+  
+For Power Counting see \[5\]  
+  
+For examples see \[8\], \[9\], \[4\]  
+  
+For Jets see \[4\], \[11\], \[12\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The links below are to abstracts of the corresponding scientific papers.
 
