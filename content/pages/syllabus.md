@@ -41,9 +41,38 @@ Each student must explore an effective field theory subject and give a short pre
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| Problem Sets | 70% |
-| Presentation\* | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation\*
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*A re-weighting may occur in the case of exceptional work on the presentation if the instructor feels it is warranted and it increases a students grade.
