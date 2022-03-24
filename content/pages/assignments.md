@@ -177,7 +177,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/homework4_s03))
 Renormalization of _cF(µ)_, Heavy-to-Light Currents in HQET, Non-Perturbative Form Factor Corrections
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/homework5_s03))
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/homework5_s03))
 {{< tdclose >}}
 
 {{< trclose >}}
