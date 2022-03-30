@@ -4,6 +4,7 @@ description: 'This file contains exercise based on the topics: Matching with Mas
   Electrons, Right Handed Neutrinos, X-Decay.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/35368ff4f3f1a963beec8fc19585d0b4_homework1.pdf
 file_type: application/pdf
+parent_uid: 7b14130f-4eb8-0fd4-4b10-1a7d3fbff8d7
 resourcetype: Document
 title: homework1.pdf
 uid: 35368ff4-f3f1-a963-beec-8fc19585d0b4

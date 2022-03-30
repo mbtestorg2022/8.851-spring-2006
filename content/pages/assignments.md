@@ -87,7 +87,7 @@ Homework 5 ([PDF]({{< baseurl >}}/resources/homework5))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Renormalization of _cF (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _Xce![nu.](/courses/physics/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/assignments/v.jpg)_
+Renormalization of _cF (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _Xce{{< resource "8d34e48f-087a-9455-56fb-a082f52ddb00" >}}_
 {{< tdclose >}}
 {{< tdopen >}}
 Homework 6 ([PDF]({{< baseurl >}}/resources/homework6))

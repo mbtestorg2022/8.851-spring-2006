@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7b14130f-4eb8-0fd4-4b10-1a7d3fbff8d7
 resourcetype: Image
 title: v.jpg
 uid: 8d34e48f-087a-9455-56fb-a082f52ddb00
